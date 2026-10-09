@@ -43,6 +43,7 @@ Check that the camera is seen:
 ```bash
 metavision_hal_ls          # expected: Device detected: Prophesee:hal_plugin_gen31_fx3:<serial>
 ```
+![hardware setup](docs/media/GUI.jpg)
 
 ## 3. Record events
 
@@ -83,6 +84,9 @@ which matches the spacing of the first and last peak. Peak spacing alternates sl
 so the outward and return motions are not identical.
 The flat noisy bottom of each wave is probably the LED leaving the analysed box or getting dim; count the maxima, not the minima.
 This was not yet checked against an independent reference (stopwatch or motor settings).
+
+![frequency result](docs/results/terminal.jpg)
+
 
 
 ## Not included
