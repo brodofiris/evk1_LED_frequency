@@ -85,7 +85,7 @@ so the outward and return motions are not identical.
 The flat noisy bottom of each wave is probably the LED leaving the analysed box or getting dim; count the maxima, not the minima.
 This was not yet checked against an independent reference (stopwatch or motor settings).
 
-![frequency result](docs/results/terminal.jpg)
+![frequency result](docs/results/terminal.png)
 
 
 
