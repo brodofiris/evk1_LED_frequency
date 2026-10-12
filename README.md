@@ -4,6 +4,7 @@ Getting raw events out of an old Prophesee **EVK1** camera on a modern Ubuntu ho
 measure the back-and-forth frequency of an LED moved by a stepper motor in a dark box.
 
 ![swing graph](docs/results/cd_swing.png)
+![motor and position graph](docs/results/synchronized_swing_plot.png)
 
 ## Setup (hardware)
 
