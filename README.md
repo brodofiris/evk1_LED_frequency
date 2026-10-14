@@ -1,4 +1,5 @@
 # Prophesee EVK1 event camera on Ubuntu 22.04 (via Docker) + LED swing-frequency measurement
+![hardware setup](docs/media/explain_synced_plots/png)
 
 Getting raw events out of an old Prophesee **EVK1** camera on a modern Ubuntu host, and using them to
 measure the back-and-forth frequency of an LED moved by a stepper motor in a dark box.
